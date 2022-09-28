@@ -1,16 +1,18 @@
+
 body{
 
 background: #cccccc;
 
 }
-
+.centralizar{
+    text-align: center;
+}
 h1{
 
-color:aquamarine;
-text-align: center;
+color:rgb(6, 10, 59);
 
 }
 
 h2{
-color:aqua
+color:rgb(123, 124, 170)
 }
