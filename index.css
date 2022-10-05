@@ -9,7 +9,12 @@ background: #cccccc;
 }
 .imagem{
     width:200px;
+    margin-left: 40%;
+    border: solid 5px rgb(24, 24, 24); 
+
 }
+
+
 
 
 h1{
