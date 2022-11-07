@@ -3,41 +3,33 @@ nav{
 
 }
 
-nav li {
+nav li{
 display:inline
 margin 0 0 0 30%;
 
 }
 
 
-
-
-
 body{
 
-background: #cccccc;
+background: linear-gradient(to bottom, rgb(145,240,227), rgb(145,240,227));
+font-size: 25px;
+font-family: Georgia, 'Times New Roman', Times, serif;
 
 }
-.centralizar{
+
+h1{
+
+color: rgb(123, 124, 170);
     text-align: center;
 }
 .imagem{
     width:200px;
     margin-left: 40%;
-    border: solid 5px rgb(24, 24, 24); 
+    border: solid 5px rgb(24, 24, 24)
 
 }
 
 
 
-
-h1{
-
-color:rgb(6, 10, 59);
-
-}
-
-h2{
-color:rgb(123, 124, 170)
-}
 
